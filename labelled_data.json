@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "prompt": "Does live-action adaptation of Japanese anime damage the image of the original work?",
+        "support": "Live-action can present more realistic character portrayals, enhancing the charm of the original work.",
+        "oppose": "Live-action may fail to perfectly capture the unique style of the anime, harming the original’s image."
+    },
+    {
+        "id": 2,
+        "prompt": "Can live-action adaptations expand the global influence of anime?",
+        "support": "Live-action allows non-anime fans to experience the works, broadening their influence.",
+        "oppose": "Live-action may lose the unique style of anime, limiting its influence."
+    },
+    {
+        "id": 3,
+        "prompt": "Can live-action adaptations attract new audiences?",
+        "support": "Live-action can attract viewers unfamiliar with anime, expanding the audience.",
+        "oppose": "Live-action may disappoint existing anime fans, failing to attract new viewers."
+    },
+    {
+        "id": 4,
+        "prompt": "Can live-action adaptations preserve the essence of the original storyline?",
+        "support": "Live-action offers opportunities to further explore the story and preserve its essence.",
+        "oppose": "Live-action may lose the depth and essence of the original due to adaptation changes."
+    },
+    {
+        "id": 5,
+        "prompt": "Can live-action adaptations increase the commercial value of the anime industry?",
+        "support": "Live-action can open new business opportunities and enhance industry value.",
+        "oppose": "Live-action may cause audiences to lose interest in the original, reducing its value."
+    },
+    {
+        "id": 6,
+        "prompt": "Can live-action adaptations retain the cultural characteristics of the original work?",
+        "support": "Live-action can preserve cultural features through settings, costumes, and other elements.",
+        "oppose": "Live-action may lose the original’s unique cultural appeal due to cultural differences."
+    },
+    {
+        "id": 7,
+        "prompt": "Do live-action adaptations drive new technological breakthroughs?",
+        "support": "Live-action encourages technological innovation, pushing visual effects to new heights.",
+        "oppose": "Live-action may fail to replicate anime’s visuals due to technical limitations."
+    },
+    {
+        "id": 8,
+        "prompt": "Will live-action adaptations face controversies over casting choices?",
+        "support": "Casting can be adjusted to market demands without being tied to anime designs.",
+        "oppose": "Casting may spark controversy if audiences reject the character portrayal."
+    },
+    {
+        "id": 9,
+        "prompt": "Can live-action adaptations improve the social recognition of anime?",
+        "support": "Live-action may help more people accept anime, improving social recognition.",
+        "oppose": "Live-action may fail to gain recognition if story changes reduce appeal."
+    },
+    {
+        "id": 10,
+        "prompt": "Can live-action adaptations preserve the personalities of the original characters?",
+        "support": "Actors’ performances can retain the characters’ unique traits.",
+        "oppose": "Acting or directing choices may strip characters of their original personality."
+    },
+    {
+        "id": 11,
+        "prompt": "Will live-action adaptations affect the ratings of the original anime?",
+        "support": "Live-action may attract wider audiences, boosting ratings.",
+        "oppose": "Fans’ resentment toward live-action could lower anime viewership."
+    },
+    {
+        "id": 12,
+        "prompt": "Will live-action adaptations face copyright issues?",
+        "support": "Copyright concerns can be resolved through cooperation and negotiation.",
+        "oppose": "Copyright problems may hinder production and progress."
+    },
+    {
+        "id": 13,
+        "prompt": "Will live-action adaptations spark cultural differences controversies?",
+        "support": "Appropriate adaptation can reduce cultural controversy.",
+        "oppose": "Cultural differences may cause disputes and affect audience acceptance."
+    },
+    {
+        "id": 14,
+        "prompt": "Can live-action adaptations challenge new film styles?",
+        "support": "Live-action has opportunities to explore new visual styles and enrich expression.",
+        "oppose": "Live-action may be restricted by original styles, limiting creativity."
+    },
+    {
+        "id": 15,
+        "prompt": "Can live-action adaptations promote diverse development of the anime industry?",
+        "support": "Live-action can open new directions for industry diversification.",
+        "oppose": "Live-action may lock audiences into fixed impressions, hindering diversity."
+    },
+    {
+        "id": 16,
+        "prompt": "Will live-action adaptations change the style of the original anime?",
+        "support": "Live-action can showcase different visual styles through adaptation.",
+        "oppose": "It may fail to replicate the anime’s unique visual style."
+    },
+    {
+        "id": 17,
+        "prompt": "Can live-action adaptations expand the original’s world-building?",
+        "support": "Live-action can broaden the universe through real-world settings.",
+        "oppose": "Budget or technical limits may prevent full representation of the world."
+    },
+    {
+        "id": 18,
+        "prompt": "Can live-action adaptations attract more investment into the anime industry?",
+        "support": "They can reveal commercial potential, attracting investors.",
+        "oppose": "Negative audience reception may discourage investor confidence."
+    },
+    {
+        "id": 19,
+        "prompt": "Can live-action adaptations boost merchandise sales of the original anime?",
+        "support": "They can strengthen brand influence, increasing merchandise sales.",
+        "oppose": "Disappointment with adaptations may reduce merchandise demand."
+    },
+    {
+        "id": 20,
+        "prompt": "Can live-action adaptations raise the social status of anime?",
+        "support": "They can bring anime greater recognition and respect.",
+        "oppose": "They may instead create negative impressions, lowering its status."
+    },
+    {
+        "id": 21,
+        "prompt": "Do live-action adaptations destroy the uniqueness of the original anime?",
+        "support": "New forms of presentation can preserve uniqueness.",
+        "oppose": "Changes may strip away the original’s distinctive style."
+    },
+    {
+        "id": 22,
+        "prompt": "Do live-action adaptations promote international exchange in the anime industry?",
+        "support": "They make anime more understandable for global audiences, fostering exchange.",
+        "oppose": "Cultural differences may hinder market expansion and exchanges."
+    },
+    {
+        "id": 23,
+        "prompt": "Do live-action adaptations affect the classic status of the original anime?",
+        "support": "They can refresh the original, elevating its classic standing.",
+        "oppose": "Adaptations may be seen as disrespectful to a classic."
+    },
+    {
+        "id": 24,
+        "prompt": "Will live-action adaptations face fan backlash?",
+        "support": "Some fans may find them refreshing, not necessarily rejecting them.",
+        "oppose": "Others may be deeply disappointed and strongly oppose them."
+    },
+    {
+        "id": 25,
+        "prompt": "Can live-action adaptations explore uncharted storylines of the original?",
+        "support": "They can uncover new aspects through creative adaptation.",
+        "oppose": "They may lose the depth and exploratory value of the original."
+    },
+    {
+        "id": 26,
+        "prompt": "Can live-action adaptations attract famous directors and actors?",
+        "support": "They can involve renowned talent, improving production quality.",
+        "oppose": "High risks may deter big names from participating."
+    },
+    {
+        "id": 27,
+        "prompt": "Do live-action adaptations face pressure from fan expectations?",
+        "support": "Moderate adaptation can meet expectations and reduce pressure.",
+        "oppose": "Failure to meet expectations may create overwhelming pressure."
+    },
+    {
+        "id": 28,
+        "prompt": "Do live-action adaptations encourage technological innovation in the industry?",
+        "support": "Production demands push advancements in visual effects and technology.",
+        "oppose": "Overemphasis on live-action may neglect anime’s own innovations."
+    },
+    {
+        "id": 29,
+        "prompt": "Do live-action adaptations improve anime culture’s popularity and acceptance?",
+        "support": "They help anime culture reach wider audiences.",
+        "oppose": "They may dilute uniqueness, reducing appeal to niche groups."
+    },
+    {
+        "id": 30,
+        "prompt": "Do live-action adaptations add depth and multidimensionality to anime characters?",
+        "support": "Actors’ performances can add complexity and depth.",
+        "oppose": "They often fail to fully capture characters’ intricacy."
+    },
+    {
+        "id": 31,
+        "prompt": "Can live-action adaptations increase the fame of the original?",
+        "support": "They can expand the audience, boosting recognition.",
+        "oppose": "Failures may harm the reputation of the original."
+    },
+    {
+        "id": 32,
+        "prompt": "Do live-action adaptations enhance the artistic value of the original?",
+        "support": "They reinterpret works, adding artistic depth.",
+        "oppose": "They often fail to capture the artistic appeal, reducing value."
+    },
+    {
+        "id": 33,
+        "prompt": "Do live-action adaptations benefit the economic development of the anime industry?",
+        "support": "They create business opportunities, stimulating growth.",
+        "oppose": "Commercial focus may distort the spirit of the original."
+    },
+    {
+        "id": 34,
+        "prompt": "Do live-action adaptations help spread anime culture internationally?",
+        "support": "They are more accessible to global audiences, promoting culture.",
+        "oppose": "They may misrepresent anime culture, leading to misunderstandings."
+    },
+    {
+        "id": 35,
+        "prompt": "Can live-action adaptations accurately reproduce anime’s fantasy elements?",
+        "support": "Modern technology can faithfully recreate fantasy elements.",
+        "oppose": "They often fail to perfectly present anime’s fantasy worlds."
+    },
+    {
+        "id": 36,
+        "prompt": "Do live-action adaptations respect the spirit and content of the original?",
+        "support": "Production teams usually strive to remain faithful and respectful.",
+        "oppose": "Commercial motives often lead to altering core elements."
+    },
+    {
+        "id": 37,
+        "prompt": "How do live-action adaptations affect the integrity of the original?",
+        "support": "They provide new perspectives, enriching the narrative.",
+        "oppose": "They often simplify or alter stories, damaging integrity."
+    },
+    {
+        "id": 38,
+        "prompt": "Do live-action adaptations help attract broader audiences?",
+        "support": "They can appeal to non-anime viewers, expanding reach.",
+        "oppose": "They may alienate core fans without gaining new ones."
+    },
+    {
+        "id": 39,
+        "prompt": "Do live-action adaptations enhance the brand value of original anime?",
+        "support": "Successful ones can elevate brand recognition and value.",
+        "oppose": "Unsuccessful ones may harm brand image."
+    },
+    {
+        "id": 40,
+        "prompt": "Do live-action adaptations foster creative expression by original authors?",
+        "support": "They provide a new platform for creativity.",
+        "oppose": "They may restrict or distort original creative visions."
+    },
+    {
+        "id": 41,
+        "prompt": "Do live-action adaptations increase the cultural influence of the original?",
+        "support": "They are more easily embraced by mainstream culture.",
+        "oppose": "They may dilute unique cultural traits, reducing influence."
+    },
+    {
+        "id": 42,
+        "prompt": "Do live-action adaptations add depth and complexity to original stories?",
+        "support": "They can enrich storytelling with deeper character and plot arcs.",
+        "oppose": "Time and budget constraints often lead to simplification."
+    },
+    {
+        "id": 43,
+        "prompt": "Do live-action adaptations promote diversity in the anime industry?",
+        "support": "Their variety can drive more diverse development.",
+        "oppose": "Over-focus may limit other areas of anime growth."
+    },
+    {
+        "id": 44,
+        "prompt": "Do live-action adaptations improve the international competitiveness of the original?",
+        "support": "They make works easier to enter international markets.",
+        "oppose": "Failures may damage global reputation and competitiveness."
+    },
+    {
+        "id": 45,
+        "prompt": "Do live-action adaptations benefit the economic interests of original creators?",
+        "support": "Success can bring creators extra income.",
+        "oppose": "They may proceed without full creator approval, harming rights."
+    },
+    {
+        "id": 46,
+        "prompt": "Do live-action adaptations promote collaboration between anime and other media?",
+        "support": "They open opportunities for cooperation with film, TV, etc.",
+        "oppose": "Overreliance may weaken anime’s independence and uniqueness."
+    },
+    {
+        "id": 47,
+        "prompt": "Do live-action adaptations broaden storytelling approaches in anime?",
+        "support": "They introduce new narrative styles, enriching expression.",
+        "oppose": "Reality-based limits restrict storytelling freedom."
+    },
+    {
+        "id": 48,
+        "prompt": "Do live-action adaptations enhance the realism of anime characters?",
+        "support": "Actors add more human-like authenticity.",
+        "oppose": "They often fail to capture unique anime charm."
+    },
+    {
+        "id": 49,
+        "prompt": "Do live-action adaptations accurately convey the original’s themes and messages?",
+        "support": "They can deliver themes more vividly through acting.",
+        "oppose": "Format and style constraints may weaken message delivery."
+    },
+    {
+        "id": 50,
+        "prompt": "Do live-action adaptations increase social recognition of original anime?",
+        "support": "They help anime gain mainstream recognition.",
+        "oppose": "They may oversimplify culture, lowering social standing."
+    }
+]
