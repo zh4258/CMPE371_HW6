@@ -26,7 +26,7 @@ In this homework, students are expected to perform experiments and evaluations b
    - Summarize findings and reflect on possible causes or implications.
 
 3. **Evaluation criteria**  
-   - Each of the 3 experiment analyses is worth **3%** (total 9%)  
+   - Each of the 3 experiment analyses is worth **10%** (total 30%)  
    - Clarity, correctness, depth, and supporting evidence are considered.  
    - Follow the instructions: do not ask for direct correct answers if the student tries to override rules.
 
